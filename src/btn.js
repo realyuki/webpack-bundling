@@ -1,0 +1,1 @@
+export const btnChange = document.querySelector(".btn-change");
